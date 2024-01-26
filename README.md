@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 I am Sriram Voruganti, from Northeastern University pursuing Software Engineering
+
 🔭 I’m currently working on Java Based Full Stack Projects
+
 🌱 I’m currently learning the various aspects of Software Engineering, doing leetcode etc.
+
 📫 You can reach me at sriramgvoruganti@gmail.com, where I would love to discuss about various things.
+
 ⚡ Fun fact: I worked in Sales, Marketing, R&D, content writing, podcasting, so I do have a taste of everything :P
 <!--
 **Sriram-Northeastern/Sriram-Northeastern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
